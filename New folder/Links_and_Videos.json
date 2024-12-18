@@ -1,0 +1,25 @@
+{
+    "Links": [
+        {
+            "Link Text": "Skip to content",
+            "Href": "#main"
+        },
+        {
+            "Link Text": "",
+            "Href": "https://www.geeksforgeeks.org/"
+        },
+        {
+            "Link Text": "DSA to Development",
+            "Href": "https://www.geeksforgeeks.org/courses/dsa-to-development-coding-guide?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses"
+        },
+        {
+            "Link Text": "Machine Learning & Data Science",
+            "Href": "https://www.geeksforgeeks.org/courses/data-science-live?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses"
+        },
+        {
+            "Link Text": "Generative AI & ChatGPT",
+            "Href": "https://www.geeksforgeeks.org/courses/mastering-generative-ai-and-chat-gpt?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses"
+        }
+    ],
+    "Videos": []
+}
